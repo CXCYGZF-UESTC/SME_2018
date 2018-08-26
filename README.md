@@ -8,8 +8,6 @@ This is the introduction of 2018 SME Cup competition, including the introduction
 
 <font face="华文中宋">**[比赛目的]**</font>  
 
-<font face="华文中宋" size="10">&emsp;&emsp;经济与管理学院旨在培养“懂技术的管理者”，这也是工作坊成立的初衷。此次比赛目的在于加深同学们对于学院培养目标的认识，了解技术工作，激发起对电子设计与互联网技术的热情与兴趣，引导新生走近电子世界，体验技术带给世界的魅力。</font>  
-<font face="华文中宋" size="10">&emsp;&emsp;**比赛是零门槛比赛，比赛时间会适当延长，同学们可以边学边赛。**</font> 
 
 <font face="华文中宋">**[参赛须知]**</font> 
 
