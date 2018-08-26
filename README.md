@@ -42,9 +42,9 @@ This is the introduction of 2018 SME Cup competition, including the introduction
 <font face="华文中宋" size="10">&emsp;&emsp;• 线下指导：工作坊经常会有熟悉相关方向的大佬出没，欢迎大家常来工作坊。</font> <br /> 
 
 <div align=center>
-![image](https://github.com/CXCYGZF/SME_2018/blob/master/创新创业工作坊图标.png)
+![image](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/创新创业工作坊图标.png)
 
 <div align=center>
-![image](https://github.com/CXCYGZF/SME_2018/blob/master/二维码.jpg) <br /> 
+![image](https://github.com/CXCYGZF-UESTC/SME_2018/raw/master/二维码.jpg) <br /> 
   
 <font face="华文中宋">**第二届SME杯比赛暨工作坊招新群: 690495668**</font><br /> 
