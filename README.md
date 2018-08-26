@@ -46,5 +46,5 @@ This is the introduction of 2018 SME Cup competition, including the introduction
 
 <div align=center>
 ![image](https://github.com/CXCYGZF/SME_2018/blob/master/二维码.jpg) <br /> 
-<font face="华文中宋">**第二届SME杯比赛暨工作坊招新群: 690495668**</font><br /> 
   
+<font face="华文中宋">**第二届SME杯比赛暨工作坊招新群: 690495668**</font><br /> 
